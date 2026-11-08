@@ -4,7 +4,7 @@ A small web app that rewrites AI-sounding text so it reads like a real person wr
 
 You can choose the tone (Casual, Neutral, Professional) and how much to change (Light or Strong). The app makes one call to an LLM (`qwen/qwen3.8-27b` on [Groq](https://groq.com)) and shows only the rewritten text.
 
-**Live app:** _coming soon_
+**Live app:** https://simple-humanizer.streamlit.app/
 
 ## Run locally
 
